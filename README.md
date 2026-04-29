@@ -8,14 +8,14 @@ It connects all my major QA projects in one place.
 
 ---
 
-## 🧪 Projects
+##  Projects
 
 ### 1. POM Automation Framework (PHPTRAVELS)
 - Selenium + Java automation framework
 - Page Object Model design pattern
 - End-to-end UI automation
 
-🔗 https://github.com/sumitbiddu/Page-Object-Model-Project
+ https://github.com/sumitbiddu/Page-Object-Model-Project
 
 ---
 
@@ -24,7 +24,7 @@ It connects all my major QA projects in one place.
 - Feature files + Step Definitions
 - Real-world user journey automation
 
-🔗 https://github.com/sumitbiddu/real-world-bdd-automation-framework
+ https://github.com/sumitbiddu/real-world-bdd-automation-framework
 
 ---
 
@@ -33,11 +33,11 @@ It connects all my major QA projects in one place.
 - Bug reports and exploratory testing
 - QA analytical thinking
 
-🔗 https://github.com/sumitbiddu/qa-thinking-and-test-design
+ https://github.com/sumitbiddu/qa-thinking-and-test-design
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - Selenium WebDriver
 - Java Automation
@@ -50,12 +50,12 @@ It connects all my major QA projects in one place.
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This portfolio demonstrates my ability to build scalable automation frameworks, design test strategies, and apply real-world QA practices in both automation and manual testing.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 QA Automation Engineer | Selenium | Java | Cucumber | TestNG
