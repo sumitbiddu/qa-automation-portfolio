@@ -24,7 +24,7 @@ It connects all my major QA projects in one place.
 - Feature files + Step Definitions
 - Real-world user journey automation
 
-🔗 https://github.com/sumitbiddu/YOUR-CUCUMBER-REPO-NAME
+🔗 https://github.com/sumitbiddu/real-world-bdd-automation-framework
 
 ---
 
@@ -33,7 +33,7 @@ It connects all my major QA projects in one place.
 - Bug reports and exploratory testing
 - QA analytical thinking
 
-🔗 https://github.com/sumitbiddu/Real-World-Testing-Project
+🔗 https://github.com/sumitbiddu/qa-thinking-and-test-design
 
 ---
 
